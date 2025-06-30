@@ -1,0 +1,51 @@
+ingredient_name,aliases,side_effects,risk_level,label
+monosodium glutamate,"msg, e621","Headache, chest pain",High,1
+sodium nitrite,e250,"Carcinogenic, nausea",High,1
+sodium benzoate,e211,"Allergies, asthma",Moderate,1
+bha,butylated hydroxyanisole,Cancer risk,High,1
+bht,butylated hydroxytoluene,Liver damage,High,1
+artificial colors,"tartrazine, e102",Hyperactivity in children,Moderate,1
+high fructose corn syrup,hfcs,"Obesity, diabetes",High,1
+propyl gallate,e310,Estrogenic activity,Moderate,1
+aspartame,e951,Neurological effects,High,1
+acesulfame k,e950,Affects insulin levels,Moderate,1
+potassium bromate,,Potentially carcinogenic,High,1
+sodium laureth sulfate,sles,Skin/eye irritation,Low,1
+titanium dioxide,e171,Genotoxicity,High,1
+carrageenan,,Gut inflammation,Moderate,1
+polysorbate 80,e433,"Infertility, gut imbalance",High,1
+aluminum compounds,,Alzheimer’s risk,High,1
+sodium phosphate,,Kidney strain,Moderate,1
+calcium propionate,e282,Behavioral changes in children,Moderate,1
+fd&c red no. 40,,"Hyperactivity, cancer risk",High,1
+fd&c yellow no. 5,tartrazine,Allergic reactions,Moderate,1
+fd&c blue no. 1,,Allergic reactions,Moderate,1
+brominated vegetable oil,bvo,Neurological effects,High,1
+olestra,,Digestive distress,Moderate,1
+sodium aluminum sulfate,,Neurotoxicity,High,1
+diacetyl,,Respiratory issues,High,1
+parabens,,Hormonal imbalance,High,1
+sucralose,e955,Gut microbiome disruption,Moderate,1
+butane,,Cancer risk,High,1
+azodicarbonamide,ada,"Asthma, cancer risk",High,1
+carbon monoxide,,Artificial freshness,Moderate,1
+ethoxyquin,,Liver damage,High,1
+nitrates,,Carcinogenic risk,High,1
+sulfites,,Breathing difficulty,Moderate,1
+sodium sorbate,e201,Digestive issues,Moderate,1
+benzoic acid,e210,Allergic reactions,Moderate,1
+dimethylpolysiloxane,,Unknown toxicity,Low,1
+chlorine dioxide,,Thyroid disruption,High,1
+hydrogenated oils,,Heart disease,High,1
+modified corn starch,,Blood sugar spike,Moderate,1
+propylene glycol,,Skin irritation,Low,1
+artificial vanilla flavoring,vanillin,Allergies,Moderate,1
+artificial butter flavor,diacetyl,Lung disease,High,1
+sodium metabisulfite,e223,Allergic reactions,Moderate,1
+alitame,e956,Unknown side effects,Low,1
+neotame,e961,Unknown side effects,Low,1
+cyclamates,e952,Banned in some countries,High,1
+saccharin,e954,Cancer risk,High,1
+lead-based additives,,Heavy metal toxicity,High,1
+cadmium compounds,,Kidney damage,High,1
+mercury-based preservatives,,Neurological damage,High,1
